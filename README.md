@@ -1,2 +1,2 @@
 # Quill-Chat
-A simple Chat app
+A simple Chat application
